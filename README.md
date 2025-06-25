@@ -1,2 +1,2 @@
 # censorship_data_analysis
-A data comparison analysis on the political affiliations and book ban types in censorship states from the PEN America dataset.
+My final research project titled "What Effect Have U.S. Political Parties Had On State Censorship?" in the Data Science for Social Impact bootcamp program at Howard University. This data analysis report compares the relationships between censorship and political parties at the state-level in relation to the frequency distribution of book ban types from the PEN America dataset. As a data scholar, I investigate: do more right-wing states ban books than left-wing states and which type of bans are targeted the most?
